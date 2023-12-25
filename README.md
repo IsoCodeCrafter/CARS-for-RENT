@@ -1,6 +1,8 @@
+CARS-for-RENT
+
 # React + TypeScript + Vite
 
-![](car-rental.gif)# CARS-for-RENT
+![](car-rental.gif)# 
 
 # React + TypeScript + Vite
 
